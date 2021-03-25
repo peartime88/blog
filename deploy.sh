@@ -15,7 +15,13 @@ if [ ! -d "../source-yangchen2.github.io" ]; then
   exit 1
 fi
 
-hugo build
+# hugo build
+rm -rf public
+hugo
+git add --all
+git commit -m "Check-pointing deploy"
+git push
+
 pushd ../yangchen2.github.io || exit
   rm -rf ./*
   cp -rf ../source-yangchen2.github.io/public/ ./
