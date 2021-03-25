@@ -41,7 +41,7 @@ title: Yang Chen
 
 Hi, I'm Yang! I'm an early-career biomedical researcher with a unique hybrid experience in the field, bench, and command-line. Currently, I am a post-baccalaureate Research Fellow within the Laboratory of Parasitic Diseases at the [National Institute of Health](https://www.nih.gov) in Bethesda, MD. This fall 2021, I will matriculate into the [Biomedical Sciences PhD Program](https://biomedsci.ucsd.edu), Bioinformatics Specialization at the University of California San Diego.
 
-<!--- {{< icon name="download" pack="fas" >}} Check out my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}. -->
+{{< icon name="download" pack="fas" >}} Check out my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}. 
 
 <!--- This is an HTML comment in Markdown -->
 
