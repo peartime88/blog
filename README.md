@@ -1,1 +1,1 @@
-# blog
+# Source repo for [yangchen2.github.io](https://yangchen2.github.io/)
