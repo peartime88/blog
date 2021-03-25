@@ -10,9 +10,16 @@ if [ ! -d "../yangchen2.github.io" ]; then
   exit 1
 fi
 
+if [ ! -d "../source-yangchen2.github.io" ]; then
+  echo "Ensure this directory is called source-yangchen2.github.io"
+  exit 1
+fi
+
 hugo build
-cp -rf public/ ../yangchen2.github.io
-cd ../yangchen2.github.io || exit
-git add --all
-git commit -m "Deploy"
-git push origin main
+pushd ../yangchen2.github.io || exit
+  rm -rf ./*
+  cp -rf ../source-yangchen2.github.io/public/ ./
+  git add --all
+  git commit -m "Deploy"
+  git push
+popd
