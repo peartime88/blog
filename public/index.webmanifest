@@ -2,8 +2,8 @@
   "name": "YC",
   "short_name": "YC",
   "lang": "en-us",
-  "theme_color": "#EAF04E",
-  "background_color": "#EAF04E",
+  "theme_color": "#4caf50",
+  "background_color": "#4caf50",
   "icons": [{
     "src": "/media/icon_hu56438f6d98e3f50f1d739e794e6535fb_63708_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
