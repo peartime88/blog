@@ -13,7 +13,7 @@ links:
   summary: An example of using the in-built project page.
   tags:
 - Bioinformatics
-  title: Internal Project
+  title: Disease transmission from wildlife to livestock in the Fraser River Valley of British Columbia, Canada
   url_code: ""
   url_pdf: ""
   url_slides: ""
