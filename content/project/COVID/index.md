@@ -4,7 +4,7 @@
 title: "Detecting Genetic Recombination in SARS-CoV-2"
 summary: ""
 tags:
-- Wet-lab
+  - Wet-lab
 authors: []
 tags: []
 categories: []
