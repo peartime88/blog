@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: Dark
-# themes are: minimal, Apogee, forest,
+theme: Ocean
+# themes are: minimal, Apogee, forest, Dark
 day_night: true
 font: ''
 font_size: L
