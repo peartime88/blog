@@ -282,7 +282,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-824531769&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-632578419&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -292,7 +292,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-824531769&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-632578419&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -722,7 +722,7 @@ Three
     </item>
     
     <item>
-      <title>My title</title>
+      <title>Parasitic Disease Transmission in British Columbia, Canada</title>
       <link>https://yangchen2.github.io/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://yangchen2.github.io/project/internal-project/</guid>

@@ -10,10 +10,10 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 slides: example
-summary: An example of using the in-built project page.
+summary: Cows, coyotes, and coccidia!
 tags:
 - Wet-lab
-title: My title
+title: Parasitic Disease Transmission in British Columbia, Canada
 url_code: ""
 url_pdf: ""
 url_slides: ""
