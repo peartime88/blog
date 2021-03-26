@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: mr robot
-# themes are: minimal, Apogee, forest, Dark, ocean, strawberry
+theme: 1950s
+# themes are: minimal, Apogee, forest, Dark, ocean, strawberry, mr robot
 day_night: true
 font: ''
 font_size: L
