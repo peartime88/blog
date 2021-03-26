@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Parasitic Disease Transmission in British Columbia, Canada"
-summary: "Cows, Coyotes, and Coccidia!"
+title: "Detecting Genetic Recombination in SARS-CoV-2"
+summary: ""
 tags:
 - Wet-lab
 authors: []
 tags: []
 categories: []
-date: 2021-03-26T16:01:25-04:00
+date: 2021-03-26T16:23:53-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -18,7 +18,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Top"
+  focal_point: ""
   preview_only: false
 
 # Custom links (optional).
