@@ -28,19 +28,19 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
 
-[comment]: <> (  filter_button:)
+  filter_button:
 
-[comment]: <> (  - name: All)
+  - name: All
 
-[comment]: <> (    tag: '*')
+    tag: '*'
 
-[comment]: <> (  - name: Deep Learning)
+  - name: Deep Learning
 
-[comment]: <> (    tag: Deep Learning)
+    tag: Deep Learning
 
-[comment]: <> (  - name: Other)
+  - name: Other
 
-[comment]: <> (    tag: Demo)
+    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
