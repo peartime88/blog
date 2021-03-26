@@ -3,7 +3,7 @@
 
 title: "Parasitic Disease Transmission in British Columbia, Canada"
 summary: "Cows, Coyotes, and Coccidia!"
-tag = Wet-lab
+tag = 'Wet-lab'
 authors: []
 tags: []
 categories: []
