@@ -13,7 +13,7 @@ slides: example
 summary: An example of using the in-built project page.
 tags:
 - Wet-lab
-title: Internal Project
+title: My title
 url_code: ""
 url_pdf: ""
 url_slides: ""
