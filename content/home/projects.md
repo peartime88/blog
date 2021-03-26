@@ -30,9 +30,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
+  - name: Wet-lab
     tag: Deep Learning
-  - name: Other
+  - name: Bioinformatics
     tag: Demo
 
 design:
