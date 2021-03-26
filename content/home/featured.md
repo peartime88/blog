@@ -4,10 +4,10 @@
 widget: featured
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 80
