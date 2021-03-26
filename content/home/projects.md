@@ -31,9 +31,9 @@ content:
   - name: All
     tag: '*'
   - name: Wet-lab
-    tag: Deep Learning
+    tag: Wet-lab
   - name: Bioinformatics
-    tag: Demo
+    tag: Bioinformatics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
