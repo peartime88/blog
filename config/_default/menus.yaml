@@ -25,9 +25,12 @@ main:
   - name: Skills
     url: '#skills'
     weight: 20
+  - name: Projects
+    url: '#projects'
+    weight: 30
   - name: CV
     url: 'landing/'
-    weight: 30
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 50
