@@ -3,8 +3,7 @@
 
 title: "Detecting Genetic Recombination in SARS-CoV-2"
 summary: ""
-tags:
-    -Bioinformatics
+
 authors: []
 tags: []
 categories: []
