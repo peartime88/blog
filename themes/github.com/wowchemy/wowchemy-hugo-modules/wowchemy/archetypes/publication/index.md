@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 # title: "{{ replace .Name "-" " " | title }}"
-title: {{ ""}}
+title: "test"
 
 authors: []
 date: {{ .Date }}
