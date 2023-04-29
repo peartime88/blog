@@ -1,7 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: {{ replace .Name "-" " " | title }}
+# title: "{{ replace .Name "-" " " | title }}"
+title: {{ ""}}
+
 authors: []
 date: {{ .Date }}
 doi: ""
