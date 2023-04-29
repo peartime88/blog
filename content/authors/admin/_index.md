@@ -43,7 +43,7 @@ Hi, I'm Yang! I'm a PhD student in the [Biomedical Sciences Program](https://bio
 
 I love fitness, live music, and sharing a good meal with others. Though, at any given time you will probably more likely find me staring at either my computer or my lava lamp. I am a first-generation Chinese-American from the Midwest, and I speak fluent English and Mandarin. 
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.  -->
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}. 
 
 <!--- This is an HTML comment in Markdown -->
 
