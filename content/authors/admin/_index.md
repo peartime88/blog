@@ -39,9 +39,11 @@ superuser: true
 title: Yang Chen
 ---
 
-Hi, I'm Yang! I'm a biomedical researcher with a unique hybrid experience in the field, on the bench, and within the command-line. Currently, I am a post-baccalaureate Research Fellow within the Laboratory of Parasitic Diseases at the [National Institute of Health](https://www.nih.gov) in Bethesda, MD. This fall 2021, I will matriculate into the [Biomedical Sciences PhD Program](https://biomedsci.ucsd.edu), Bioinformatics Specialization at the University of California San Diego.
+Hi, I'm Yang! I'm a PhD student in the [Biomedical Sciences Program](https://biomedsci.ucsd.edu/) specializing in bioinformatics at UC San Diego. I am co-advised by the [Gallo lab](https://dermatology.ucsd.edu/research/basic-science/gallo-lab/index.html) and the [Knight lab](https://knightlab.ucsd.edu/wordpress/) where my research broadly focuses on how microbes contribute to disease and developing computational tools to aid in microbiome statistical analyses. These days I am learning a lot of coding and data science skills through my research, which I hope to document here. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}. 
+I love fitness, live music, and sharing a good meal with others. Though, at any given time you will probably more likely find me staring at either my computer or my lava lamp. I am a first-generation Chinese-American from the Midwest, and I speak fluent English and Mandarin. 
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.  -->
 
 <!--- This is an HTML comment in Markdown -->
 
